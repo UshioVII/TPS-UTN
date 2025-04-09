@@ -18,7 +18,8 @@ Este repositorio está destinado a almacenar y compartir los trabajos prácticos
 - 📌 **/tp1/** → Trabajo Práctico 1 ✅
 - 📌 **/tp2/** → Trabajo Práctico 2 ✅
 - 📌 **/tp3/** → Trabajo Práctico 3
-- 📌 **/tp4/** → Trabajo Práctico 4 
+- 📌 **/tp4/** → Trabajo Práctico 4
+- 📌 **/tp5/** → Trabajo Práctico 5
 - 📄 **/docs/** → Documentación y recursos adicionales
 
 ---
