@@ -8,4 +8,4 @@
 
 Este repositorio está destinado a almacenar y compartir los parciales de Programación
 
-1. Parcial Grupal. https://www.youtube.com/watch?v=rrETdw13XQo
+1. Trabajos Integradores – Programación I. https://www.youtube.com/watch?v=rrETdw13XQo
