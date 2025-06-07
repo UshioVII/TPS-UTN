@@ -1,6 +1,6 @@
 # TPS-UTN
 
-📌 **Repositorio oficial para los Trabajos Prácticos de la Tecnicatura Universitaria en Programación a distancia de la Universidad Tecnológica Nacional (UTN).**
+📌 **Repositorio oficial para los Trabajos Parciales de la Tecnicatura Universitaria en Programación a distancia de la Universidad Tecnológica Nacional (UTN).**
 
 ---
 
