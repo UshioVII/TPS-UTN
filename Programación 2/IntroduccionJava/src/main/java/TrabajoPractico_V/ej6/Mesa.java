@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package TrabajoPractico_V.ej6;
+
+/**
+ *
+ * @author ushio
+ */
+
+public class Mesa {
+    private int numero;
+    private int capacidad;
+
+    public Mesa(int numero, int capacidad) {
+        this.numero = numero;
+        this.capacidad = capacidad;
+    }
+
+    public int getNumero() {
+        return numero;
+    }
+}
