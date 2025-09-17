@@ -1,0 +1,27 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text></help_text><element><id>UMLClass</id><coordinates><x>160</x><y>280</y><w>210</w><h>190</h></coordinates><panel_attributes>CitaMedica
+--
+- fecha: LocalDate
+- hora: LocalTime
+- paciente: Paciente
+- profesional: Profesional
+--
++ CitaMedica(LocalDate, LocalTime, Paciente, Profesional)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>140</x><y>580</y><w>240</w><h>110</h></coordinates><panel_attributes>Profesional
+--
+- nombre: String
+- especialidad: String
+--
++ Profesional(String, String)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>520</x><y>280</y><w>210</w><h>160</h></coordinates><panel_attributes>Paciente
+--
+- nombre: String
+- obraSocial: String
+--
++ Paciente(String, String)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>460</y><w>40</w><h>140</h></coordinates><panel_attributes>m1=1
+m2=1
+lt=&lt;&lt;&lt;-
+</panel_attributes><additional_attributes>10;120;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>360</x><y>340</y><w>180</w><h>50</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-
+m1=1
+m2=1
+</panel_attributes><additional_attributes>160;20;10;20</additional_attributes></element></diagram>
