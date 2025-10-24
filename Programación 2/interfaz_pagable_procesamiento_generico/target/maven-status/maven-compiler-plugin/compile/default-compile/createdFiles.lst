@@ -1,0 +1,5 @@
+com\mycompany\interfaz_pagable_procesamiento_generico\Pagable.class
+com\mycompany\interfaz_pagable_procesamiento_generico\TarjetaCredito.class
+com\mycompany\interfaz_pagable_procesamiento_generico\Efectivo.class
+com\mycompany\interfaz_pagable_procesamiento_generico\Main.class
+com\mycompany\interfaz_pagable_procesamiento_generico\Transferencia.class
